@@ -1,0 +1,18 @@
+{
+    "name": "churn-analysis-app",
+    "version": "1.0.0",
+    "description": "Automated Churn Intelligence Streamlit Application",
+    "scripts": {
+        "dev": "streamlit run churn_app.py",
+        "start": "streamlit run churn_app.py",
+        "install-deps": "pip install -r requirements.txt"
+    },
+    "keywords": [
+        "streamlit",
+        "python",
+        "churn",
+        "analysis"
+    ],
+    "author": "",
+    "license": "ISC"
+}
